@@ -68,7 +68,7 @@ Build an Android app that:
 -  Some anime may not have trailers; a fallback poster image is used in such cases.
 -  Instead, the app displays Broadcast Information in place of the main cast.
 -  No local caching or offline support implemented. 
--  TTrailer URLs are used as-is from the API; if unavailable, the anime poster is shown instead.
+-  Trailer URLs are used as-is from the API; if unavailable, the anime poster is shown instead.
 
 ---
 
