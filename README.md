@@ -21,7 +21,7 @@ Build an Android app that:
 - **Image Loading**: Coil  
 - **Dependency Injection**: Dagger Hilt  
 - **Video Playback**: Webview 
-- **UI**: XML 
+- **UI**: XML Using ConstraintLayout, LinearLayout, CardView.
 
 ---
 
